@@ -8,8 +8,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'Chronic Token',
   tagline: 'Chronic Token(CHT) is a decentralized block chain payment system designed for thecannabis community.',
-  url: 'http://localhost:3000/docs',
-  baseUrl: '/',
+  url: 'http://localhost:3000',
+  baseUrl: '/docs',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
